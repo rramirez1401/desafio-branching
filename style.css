@@ -57,3 +57,8 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+#logo {
+  text-align: center;
+  padding-bottom: 30px;
+}
